@@ -5,11 +5,14 @@ In den letzen Jahren habe ich mich mit Licht und Farbe beschäftigt.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Aktuelle Bilder
+```markdown
 
 Bild
 Bild 
 Bild
 
+[Link](url) and ![Image](src)
+```
 
 # Ausstellungen
 Meine nächste Ausstellungen ist am xx in xx
