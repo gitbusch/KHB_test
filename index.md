@@ -1,8 +1,27 @@
-## Welcome to GitHub Pages
+## Willkommen 
 
-You can use the [editor on GitHub](https://github.com/gitbusch/test2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In den letzen Jahren habe ich mich mit Licht und Farbe beschäftigt.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+# Aktuelle Bilder
+
+Bild
+Bild 
+Bild
+
+
+# Ausstellungen
+Meine nächste Ausstellungen ist am xx in xx
+[Vorige Ausstellungen] (https://gitbusch.github.io/test2/test/ausstellungen)
+
+
+# Vita
+Hier geht es zu meiner [Vita] (https://gitbusch.github.io/test2/test/vita)
+
+
+# Kontakt
+
 
 ### Markdown
 
